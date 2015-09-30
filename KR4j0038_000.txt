@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 克齋詞
+#+DATE: 2015-08-25 00:48:08.430636
+#+PROPERTY: ID KR4j0038
+#+PROPERTY: BASEEDITION WYG    
